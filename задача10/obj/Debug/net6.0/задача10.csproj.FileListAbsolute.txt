@@ -1,0 +1,15 @@
+/Users/vadimserikov/Desktop/seminar2_hw/задача10/bin/Debug/net6.0/задача10
+/Users/vadimserikov/Desktop/seminar2_hw/задача10/bin/Debug/net6.0/задача10.deps.json
+/Users/vadimserikov/Desktop/seminar2_hw/задача10/bin/Debug/net6.0/задача10.runtimeconfig.json
+/Users/vadimserikov/Desktop/seminar2_hw/задача10/bin/Debug/net6.0/задача10.dll
+/Users/vadimserikov/Desktop/seminar2_hw/задача10/bin/Debug/net6.0/задача10.pdb
+/Users/vadimserikov/Desktop/seminar2_hw/задача10/obj/Debug/net6.0/задача10.csproj.AssemblyReference.cache
+/Users/vadimserikov/Desktop/seminar2_hw/задача10/obj/Debug/net6.0/задача10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadimserikov/Desktop/seminar2_hw/задача10/obj/Debug/net6.0/задача10.AssemblyInfoInputs.cache
+/Users/vadimserikov/Desktop/seminar2_hw/задача10/obj/Debug/net6.0/задача10.AssemblyInfo.cs
+/Users/vadimserikov/Desktop/seminar2_hw/задача10/obj/Debug/net6.0/задача10.csproj.CoreCompileInputs.cache
+/Users/vadimserikov/Desktop/seminar2_hw/задача10/obj/Debug/net6.0/задача10.dll
+/Users/vadimserikov/Desktop/seminar2_hw/задача10/obj/Debug/net6.0/refint/задача10.dll
+/Users/vadimserikov/Desktop/seminar2_hw/задача10/obj/Debug/net6.0/задача10.pdb
+/Users/vadimserikov/Desktop/seminar2_hw/задача10/obj/Debug/net6.0/задача10.genruntimeconfig.cache
+/Users/vadimserikov/Desktop/seminar2_hw/задача10/obj/Debug/net6.0/ref/задача10.dll
